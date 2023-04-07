@@ -1,3 +1,4 @@
+[annotated-BIBL%20104.docx.pdf](https://github.com/webhintio/hint/files/11175324/annotated-BIBL.20104.docx.pdf)
 # Hints
 
 A hint is a test that your website needs to pass. `webhint` includes several
